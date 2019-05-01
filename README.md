@@ -48,6 +48,6 @@ Take the above tweets and turn them into a bag of words. Use a Naive Bayes class
 
 What is the accuracy of your model?
 
-Compare this model to a KMeans clustering model where each tweet is a 300-d vector.
+Compare this model to a KNN model (neighbors == 3) where each tweet is a 300 dimensional vector.
 
 Which model performs better?
